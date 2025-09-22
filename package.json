@@ -1,0 +1,19 @@
+{
+  "name": "providence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "node-cron": "^4.2.1",
+    "node-fetch": "^2.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
